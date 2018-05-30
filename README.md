@@ -1,6 +1,8 @@
+# NOTHING TO SEE HERE...
 
+Move along people... this is a test project of no consequence.  
 
-## Links used for this demo...
+## Links used for this demo ...
 
 
 [Resful APIs with Flask](https://www.codementor.io/dongido/how-to-build-restful-apis-with-python-and-flask-fh5x7zjrx)
@@ -58,3 +60,8 @@ Create the migration by running the 'migrate' command.
 Apply the migrate by running the 'upgrade' command
 
 `python migrate.py db upgrade`
+
+# Other Resources
+
+* [Setting up GitHub for Cloud9](http://lepidllama.net/blog/how-to-push-an-existing-cloud9-project-to-github/)
+* 
